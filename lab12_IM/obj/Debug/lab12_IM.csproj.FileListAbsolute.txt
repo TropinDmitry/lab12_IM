@@ -1,0 +1,11 @@
+I:\Laba15\Laba15\bin\Debug\Laba15.exe.config
+I:\Laba15\Laba15\bin\Debug\Laba15.exe
+I:\Laba15\Laba15\bin\Debug\Laba15.pdb
+I:\Laba15\Laba15\obj\Debug\lab12_IM.csproj.AssemblyReference.cache
+I:\Laba15\Laba15\obj\Debug\lab12_IM.csproj.SuggestedBindingRedirects.cache
+I:\Laba15\Laba15\obj\Debug\lab12.Form1.resources
+I:\Laba15\Laba15\obj\Debug\Laba15.Properties.Resources.resources
+I:\Laba15\Laba15\obj\Debug\lab12_IM.csproj.GenerateResource.cache
+I:\Laba15\Laba15\obj\Debug\lab12_IM.csproj.CoreCompileInputs.cache
+I:\Laba15\Laba15\obj\Debug\Laba15.exe
+I:\Laba15\Laba15\obj\Debug\Laba15.pdb
